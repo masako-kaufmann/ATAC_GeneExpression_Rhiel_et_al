@@ -1,1 +1,2 @@
-# ATAC_GeneExpression_Rhiel_et_al
+# ATAC and GeneExpression analysis for Rhiel et al.
+
